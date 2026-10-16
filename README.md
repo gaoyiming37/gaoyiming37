@@ -1,9 +1,7 @@
-# 👋 你好，我是高翊铭 (Jim Gao)
+# 👋 你好，我是 Jim Gao
 
 **光电工程师 · 光通讯 / 精密测量**  
 Optoelectronic Engineer — Optical Communication · Precision Measurement
-
-📍 武汉 · 📧 gaoyiming37@163.com
 
 ---
 
